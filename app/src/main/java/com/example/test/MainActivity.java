@@ -21,8 +21,6 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
-        A a1 = new A("Вася");
-        A a2 = new A("Петя");
 
     }
 
